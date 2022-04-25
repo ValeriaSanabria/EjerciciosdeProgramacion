@@ -1,4 +1,6 @@
-/* Primer ejercicio de la granjera */
+/* 
+Primer ejercicio de la granjera 
+*/
 
 console.log("Avanzar");
 console.log("Eliminar 1");

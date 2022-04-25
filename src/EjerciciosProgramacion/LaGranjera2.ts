@@ -1,4 +1,6 @@
-/* Segundo ejercicio de la granjera */
+/*
+ Segundo ejercicio de la granjera 
+ */
 
 console.log("Avanzar");
 console.log("Llenar 1");

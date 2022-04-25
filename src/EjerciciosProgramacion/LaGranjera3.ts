@@ -1,4 +1,6 @@
-/* Tercer ejercicio de la granjera */
+/*
+ Tercer ejercicio de la granjera 
+ */
 
 console.log("Girar a la izquierda 90°");
 console.log("Avanzar");
